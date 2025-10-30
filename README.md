@@ -5,6 +5,11 @@
 
 An ASI Alliance–native agent system that optimizes EV fleet charging schedules to minimize cost and peak load while meeting operational constraints. Built with Fetch.ai uAgents, ASI:One Chat Protocol, and a MeTTa-style Grid Knowledge Graph.
 
+Agent Name : EV-Optimizer-Orchestrator
+
+Agent address : agent1q0x4gh70ajylz7ulvlcpp2tzuwpdlxe45sz3thufg7tv0nytf4j5kzg79pp
+
+
 ## Problem Statement
 - Utility prices spike when EV depots charge simultaneously, and fleet operators juggle price volatility, charger constraints, and service-level commitments manually.
 - Dispatchers need a conversational assistant that can reason over chargers, depots, and schedules, simulate what-if scenarios, and surface explainable KPIs before locking a plan.
